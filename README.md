@@ -4,4 +4,5 @@ The dashboard offers a comprehensive view of performance across regions and cust
 Customer purchasing behavior is also explored through quantity and payment mode analysis, supporting a deeper understanding of sales dynamics. Overall, Nova supports data-driven decision-making through simple, interactive, and visually intuitive insights.
 
 🔧 Tools Used
+
 Excel / Power BI (Data Cleaning & Visualization)
